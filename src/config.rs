@@ -100,7 +100,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["74391l8b3.zicp.vip"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["91l8b3.zicp.vip"];
 pub const RS_PUB_KEY: &str = "Z4sTiaVFOBQLGOPA8NoMcbVG4lufNcAnlSMurJBca+k=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
