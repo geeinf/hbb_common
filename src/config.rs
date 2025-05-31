@@ -101,10 +101,10 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["74391l8b3.zicp.vip"];
-pub const RS_PUB_KEY: &str = "aokysWy7rhSVQPztcN9ZQD49cE6HpsOPP2ROF11uMJ0=";
+pub const RS_PUB_KEY: &str = "4vi7l0y+Y6KUhOvAKSRNSBpvD1w7z2gbbVPCiHBO+7M=";
 
-pub const RENDEZVOUS_PORT: i32 = 21185;
-pub const RELAY_PORT: i32 = 21186;
+pub const RENDEZVOUS_PORT: i32 = 21116;
+pub const RELAY_PORT: i32 = 21117;
 pub const WS_RENDEZVOUS_PORT: i32 = 21118;
 pub const WS_RELAY_PORT: i32 = 21119;
 
